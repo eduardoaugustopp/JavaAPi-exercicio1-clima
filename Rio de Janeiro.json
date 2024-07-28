@@ -1,0 +1,16 @@
+{
+  "coord": {
+    "lon": -43.1729,
+    "lat": -22.9068
+  },
+  "weather": [
+    {
+      "description": "céu limpo"
+    }
+  ],
+  "name": "Rio de Janeiro",
+  "main": {
+    "temp": 297.21,
+    "humidity": 72
+  }
+}

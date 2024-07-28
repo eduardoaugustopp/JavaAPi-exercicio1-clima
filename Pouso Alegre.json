@@ -1,0 +1,16 @@
+{
+  "coord": {
+    "lon": -45.9313,
+    "lat": -22.2137
+  },
+  "weather": [
+    {
+      "description": "nublado"
+    }
+  ],
+  "name": "Pouso Alegre",
+  "main": {
+    "temp": 294.29,
+    "humidity": 42
+  }
+}

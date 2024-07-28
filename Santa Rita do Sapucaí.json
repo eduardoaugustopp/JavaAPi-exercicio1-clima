@@ -1,0 +1,16 @@
+{
+  "coord": {
+    "lon": -45.7047,
+    "lat": -22.2546
+  },
+  "weather": [
+    {
+      "description": "nuvens quebradas"
+    }
+  ],
+  "name": "Santa Rita do Sapucaí",
+  "main": {
+    "temp": 293.22,
+    "humidity": 44
+  }
+}

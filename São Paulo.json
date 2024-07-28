@@ -1,0 +1,16 @@
+{
+  "coord": {
+    "lon": -46.6333,
+    "lat": -23.5505
+  },
+  "weather": [
+    {
+      "description": "céu limpo"
+    }
+  ],
+  "name": "São Paulo",
+  "main": {
+    "temp": 293.97,
+    "humidity": 57
+  }
+}
